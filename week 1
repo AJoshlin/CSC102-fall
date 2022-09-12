@@ -1,0 +1,51 @@
+<!DOCTYPE html
+<html>
+
+<head>
+   
+   
+    <
+<title>
+  AJ's UAT Space Page 
+
+  
+<Br>
+</title>
+
+<body>
+<h1>UAT space Program</h1>
+
+<img src="Uat space Logo.jpg"
+
+
+<script>
+
+    document.write("this is a test of the document .write function");
+</script>
+ 
+<p>
+   paragraph . 
+
+
+</p>
+<br>
+
+<script>
+//alert("This is a test of the alert funtion.");
+</script>
+
+<br>
+<br>
+<div id=testing >alert presented  </div>
+<Br>
+
+<button onclick="alert timer()">
+
+<button>Start</button>
+<button>Stop</button>
+<br>
+<br>
+<script>  
+
+
+</html>
