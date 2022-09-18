@@ -34,7 +34,11 @@
 //alert("This is a test of the alert funtion.");
 </script>
 
+
 <br>
+
+
+setTimeout(function(){//5000 }, 5000);
 <br>
 <div id=testing >alert presented  </div>
 <Br>
